@@ -14,3 +14,11 @@ Created a solution for LeetCode No. 2324 Count Student Number in Departments
 This is a database problem that unions some common table expressions.
 
 ### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
+## Day 2: September 3 2025
+
+Created a solution for LeetCode No. 1077 Project Employees III
+
+The solution to this problem uses a common table expression with and aggregate function on a join. and the then there is
+another join with a subquery.
+
+### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
