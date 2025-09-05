@@ -22,3 +22,10 @@ The solution to this problem uses a common table expression with and aggregate f
 another join with a subquery.
 
 ### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
+## Day 3: September 4 2025
+
+Created a solution for LeetCode No. 1264 Page Recommendations
+
+The solution to this problem uses two common table expressions and a left join to filter out unwanted `user_id`.
+
+### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
