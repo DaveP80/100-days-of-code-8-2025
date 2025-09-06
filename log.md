@@ -29,3 +29,11 @@ Created a solution for LeetCode No. 1264 Page Recommendations
 The solution to this problem uses two common table expressions and a left join to filter out unwanted `user_id`.
 
 ### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
+## Day 4: September 5 2025
+
+Created a solution for LeetCode No. 1555 Bank Account Summary
+
+The solution to this problem uses two common table expressions that are unioned to make the final
+bank calculations.
+
+### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
