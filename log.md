@@ -37,3 +37,11 @@ The solution to this problem uses two common table expressions that are unioned 
 bank calculations.
 
 ### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
+## Day 5: September 6 2025
+
+Created a solution for LeetCode No. 1149 Article Views II
+
+The solution to this problem uses a common table expression and a join to perform simple
+business logic.
+
+### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
