@@ -45,3 +45,11 @@ The solution to this problem uses a common table expression and a join to perfor
 business logic.
 
 ### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
+## Day 6: September 7 2025
+
+Created a solution for LeetCode No. 1317 Convert Integer to the Sum of Two....
+
+This solution was written in C++ and i used a while loop and checked for numbers containing a zero using a 
+divisor function that reduced by `/=10`.
+
+### Link to work: [cppOOP](https://github.com/DaveP80/cppOOP)
