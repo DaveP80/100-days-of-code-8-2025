@@ -53,3 +53,11 @@ This solution was written in C++ and i used a while loop and checked for numbers
 divisor function that reduced by `/=10`.
 
 ### Link to work: [cppOOP](https://github.com/DaveP80/cppOOP)
+## Day 7: September 8 2025
+
+Created a solution for LeetCode No. 339 Nested List Weight Sum
+
+This solution was written in C++ and i used a helper funtion that looped through the problem array,
+and counted the depth at each nested array.
+
+### Link to work: [cppOOP](https://github.com/DaveP80/cppOOP)
