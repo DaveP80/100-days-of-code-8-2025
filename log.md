@@ -57,7 +57,14 @@ divisor function that reduced by `/=10`.
 
 Created a solution for LeetCode No. 339 Nested List Weight Sum
 
-This solution was written in C++ and i used a helper funtion that looped through the problem array,
+This solution was written in C++ and i used a helper function that looped through the problem array,
 and counted the depth at each nested array.
 
 ### Link to work: [cppOOP](https://github.com/DaveP80/cppOOP)
+## Day 8: September 9 2025
+
+Created a solution for LeetCode No. 1285 Find the Start and End Number of Conti....
+
+This solution was written with MySQL, and involves finding groupings from similar difference in sequence values to `row_number()`.
+
+### Link to work: [cppOOP](https://github.com/DaveP80/sqlQueries)
