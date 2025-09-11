@@ -67,4 +67,12 @@ Created a solution for LeetCode No. 1285 Find the Start and End Number of Conti.
 
 This solution was written with MySQL, and involves finding groupings from similar difference in sequence values to `row_number()`.
 
-### Link to work: [cppOOP](https://github.com/DaveP80/sqlQueries)
+### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
+## Day 9: September 10 2025
+
+Created a solution for LeetCode No. 702 Search in a Sorted Array of Unk...
+
+This solution was written C++. This is a binary search problem with a Leetcode custom function to look up items in the sorted
+problem array.
+
+### Link to work: [cppOOP](https://github.com/DaveP80/cppOOP)
