@@ -76,3 +76,11 @@ This solution was written C++. This is a binary search problem with a Leetcode c
 problem array.
 
 ### Link to work: [cppOOP](https://github.com/DaveP80/cppOOP)
+## Day 10: September 11 2025
+
+Created a solution for LeetCode No. 366 Find Leaves of Binary Tree
+
+This solution was written C++. This is a binary tree problem where the helper function visits the furthest leaves and groups the
+values at those nodes into a subarray.
+
+### Link to work: [cppOOP](https://github.com/DaveP80/cppOOP)
