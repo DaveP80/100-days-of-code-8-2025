@@ -84,3 +84,11 @@ This solution was written C++. This is a binary tree problem where the helper fu
 values at those nodes into a subarray.
 
 ### Link to work: [cppOOP](https://github.com/DaveP80/cppOOP)
+## Day 11: September 12 2025
+
+Created a solution for LeetCode No. 3338 Second Highest Salary II
+
+This is an SQL problem that uses a window function, `dense_rank()` to get the correct grouping and ranking of values. The final SQL
+statement searches for the appropriate ranked rows of data.
+
+### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
