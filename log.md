@@ -100,3 +100,10 @@ This is an SQL problem that uses a window function, `dense_rank()` to get the co
 statement picks off the ones with number 1 ranking.
 
 ### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
+## Day 13: September 14 2025
+
+Created a solution for LeetCode No. 175 Combine Two Tables
+
+This is an SQL problem that does a lateral join.  
+
+### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
