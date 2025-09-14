@@ -92,3 +92,11 @@ This is an SQL problem that uses a window function, `dense_rank()` to get the co
 statement searches for the appropriate ranked rows of data.
 
 ### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
+## Day 12: September 13 2025
+
+Created a solution for LeetCode No. 1831 Maximum Transaction Each Day
+
+This is an SQL problem that uses a window function, `dense_rank()` to get the correct grouping and ranking of values. The final SQL
+statement picks off the ones with number 1 ranking.
+
+### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
