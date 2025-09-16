@@ -107,3 +107,10 @@ Created a solution for LeetCode No. 175 Combine Two Tables
 This is an SQL problem that does a lateral join.  
 
 ### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
+## Day 14: September 15 2025
+
+Created a solution for LeetCode No. 2041 Accepted Candidates From the Interviews
+
+This is an SQL problem that uses an aggregate function, a join and common table expression. 
+
+### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
