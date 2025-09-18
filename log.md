@@ -114,10 +114,19 @@ Created a solution for LeetCode No. 2041 Accepted Candidates From the Interviews
 This is an SQL problem that uses an aggregate function, a join and common table expression. 
 
 ### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
-## Day 15: September 15 2025
+## Day 15: September 16 2025
 
 Created a solution for LeetCode No. 1205 Monthly Transactions II
 
 This is an SQL problem that uses an aggregate function, a join, cte and CASE statement. 
+
+### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
+## Day 16: September 17 2025
+
+Created an updated solution for LeetCode No. 1205 Monthly Transactions II
+
+This is an SQL problem that uses an aggregate function, a join, cte and CASE statement. I added new union 
+statements and expanded cte queries to cover the multiple stages required to solve this problem. 6/14 test
+cases passed so far.
 
 ### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
