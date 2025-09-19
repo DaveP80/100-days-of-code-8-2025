@@ -130,3 +130,8 @@ statements and expanded cte queries to cover the multiple stages required to sol
 cases passed so far.
 
 ### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
+## Day 17: September 18 2025
+
+I started up a react project. Trying to make some clone of an existing program.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
