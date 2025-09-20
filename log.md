@@ -135,3 +135,8 @@ cases passed so far.
 I started up a react project. Trying to make some clone of an existing program.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 18: September 19 2025
+
+I am going over react native docs to outline and make a dashboard for the front page of the android program.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
