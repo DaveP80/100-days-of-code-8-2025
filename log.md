@@ -140,3 +140,9 @@ I started up a react project. Trying to make some clone of an existing program.
 I am going over react native docs to outline and make a dashboard for the front page of the android program.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 19: September 20 2025
+
+I spent a long time trying to improve my cursor IDE setup so I can have code assistance on React Native which I am,
+slowly picking up.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
