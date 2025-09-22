@@ -146,3 +146,9 @@ I spent a long time trying to improve my cursor IDE setup so I can have code ass
 slowly picking up.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 20: September 21 2025
+
+I made the openai cursor assistance help. I fixed it by making auto recharge on my account. And now familiarizing myself with
+React Native file routing.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
