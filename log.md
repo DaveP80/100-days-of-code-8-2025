@@ -152,3 +152,8 @@ I made the openai cursor assistance help. I fixed it by making auto recharge on 
 React Native file routing.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 21: September 22 2025
+
+I have added a layout-view of the navbar component. The navbar is on the bottom with a link to the profile page.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
