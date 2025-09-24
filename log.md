@@ -157,3 +157,8 @@ React Native file routing.
 I have added a layout-view of the navbar component. The navbar is on the bottom with a link to the profile page.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 22: September 23 2025
+
+Doing work with cursor to add login features on profile page.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
