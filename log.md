@@ -162,3 +162,8 @@ I have added a layout-view of the navbar component. The navbar is on the bottom 
 Doing work with cursor to add login features on profile page.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 23: September 24 2025
+
+Added use state logic for the login signup view on the profile page.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
