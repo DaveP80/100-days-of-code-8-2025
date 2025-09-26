@@ -167,3 +167,8 @@ Doing work with cursor to add login features on profile page.
 Added use state logic for the login signup view on the profile page.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 24: September 25 2025
+
+Added login component for users to send email and pwd data to express server.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
