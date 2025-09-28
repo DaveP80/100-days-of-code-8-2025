@@ -177,3 +177,8 @@ Added login component for users to send email and pwd data to express server.
 Building out auth component with param relation to login and signup components.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 26: September 27 2025
+
+Fix headers on login and signup page.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
