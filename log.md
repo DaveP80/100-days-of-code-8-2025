@@ -182,3 +182,8 @@ Building out auth component with param relation to login and signup components.
 Fix headers on login and signup page.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 27: September 28 2025
+
+Added context api file.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
