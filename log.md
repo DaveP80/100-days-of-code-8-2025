@@ -187,3 +187,8 @@ Fix headers on login and signup page.
 Added context api file.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 28: September 29 2025
+
+Wrap layout with AuthProvider and context api.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
