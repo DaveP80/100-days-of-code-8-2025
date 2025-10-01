@@ -192,3 +192,8 @@ Added context api file.
 Wrap layout with AuthProvider and context api.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 29: September 30 2025
+
+added auth user context to profile page.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
