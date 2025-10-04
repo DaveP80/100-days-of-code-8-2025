@@ -207,3 +207,8 @@ Added user details to user auth context.
 Pass new user Types into user object for context state.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 32: October 3 2025
+
+Update user auth context on successful login.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
