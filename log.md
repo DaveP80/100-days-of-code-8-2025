@@ -212,3 +212,8 @@ Pass new user Types into user object for context state.
 Update user auth context on successful login.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 33: October 4 2025
+
+New instructions on login signup view.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
