@@ -217,3 +217,8 @@ Update user auth context on successful login.
 New instructions on login signup view.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 34: October 5 2025
+
+New ui profile page messages from updated context state when a new user signs up.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
