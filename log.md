@@ -222,3 +222,8 @@ New instructions on login signup view.
 New ui profile page messages from updated context state when a new user signs up.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 35: October 6 2025
+
+Add endpoints for login and signup to test api interactions.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
