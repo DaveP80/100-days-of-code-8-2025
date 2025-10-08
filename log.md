@@ -227,3 +227,9 @@ New ui profile page messages from updated context state when a new user signs up
 Add endpoints for login and signup to test api interactions.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 36: October 7 2025
+
+Using mock data for login and signup, a user can login and signup with profile page 
+routing implemented.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
