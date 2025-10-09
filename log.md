@@ -233,3 +233,8 @@ Using mock data for login and signup, a user can login and signup with profile p
 routing implemented.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 37: October 8 2025
+
+Made a solution for Leetcode No. 1112, I used a window function to rank grades and course_ids.
+
+### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
