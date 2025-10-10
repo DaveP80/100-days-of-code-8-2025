@@ -238,3 +238,8 @@ routing implemented.
 Made a solution for Leetcode No. 1112, I used a window function to rank grades and course_ids.
 
 ### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
+## Day 38: October 9 2025
+
+Made a partial solution for LeetCode No. 2986
+
+### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
