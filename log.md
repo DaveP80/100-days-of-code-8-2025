@@ -243,3 +243,8 @@ Made a solution for Leetcode No. 1112, I used a window function to rank grades a
 Made a partial solution for LeetCode No. 2986
 
 ### Link to work: [sqlQueries](https://github.com/DaveP80/sqlQueries)
+## Day 39: October 10 2025
+
+Beginning to build out profile page with user details on the user page.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
