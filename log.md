@@ -248,3 +248,8 @@ Made a partial solution for LeetCode No. 2986
 Beginning to build out profile page with user details on the user page.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 40: October 11 2025
+
+Improve context state by parsing JSON more correctly to avoid undefined values.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
