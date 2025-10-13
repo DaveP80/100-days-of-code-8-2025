@@ -253,3 +253,8 @@ Beginning to build out profile page with user details on the user page.
 Improve context state by parsing JSON more correctly to avoid undefined values.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 41: October 12 2025
+
+Improve JSON parse on signup component.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
