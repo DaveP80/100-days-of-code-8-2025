@@ -258,3 +258,8 @@ Improve context state by parsing JSON more correctly to avoid undefined values.
 Improve JSON parse on signup component.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 42: October 13 2025
+
+Added custom error functions on API calls.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
