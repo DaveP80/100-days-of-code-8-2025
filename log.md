@@ -263,3 +263,8 @@ Improve JSON parse on signup component.
 Added custom error functions on API calls.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 43: October 14 2025
+
+Logout button on profile page.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
