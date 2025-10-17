@@ -268,3 +268,8 @@ Added custom error functions on API calls.
 Logout button on profile page.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 44: October 16 2025
+
+Made a node server to save in sqlite database and serve the signup endpoint.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
