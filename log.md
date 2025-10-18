@@ -273,3 +273,8 @@ Logout button on profile page.
 Made a node server to save in sqlite database and serve the signup endpoint.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 45: October 17 2025
+
+Made the login endpoint on the server, for logins it does simple password compare for now.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
