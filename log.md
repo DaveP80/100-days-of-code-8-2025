@@ -278,3 +278,8 @@ Made a node server to save in sqlite database and serve the signup endpoint.
 Made the login endpoint on the server, for logins it does simple password compare for now.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 46: October 18 2025
+
+Working on making sense of response json from nodejs server to the frontend react.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
