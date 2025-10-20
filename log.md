@@ -283,3 +283,8 @@ Made the login endpoint on the server, for logins it does simple password compar
 Working on making sense of response json from nodejs server to the frontend react.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 47: October 19 2025
+
+Successfully communicate with server on signup component.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
