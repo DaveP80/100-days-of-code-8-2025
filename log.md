@@ -288,3 +288,8 @@ Working on making sense of response json from nodejs server to the frontend reac
 Successfully communicate with server on signup component.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 48: October 20 2025
+
+Fixing select queries in sqlite3.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
