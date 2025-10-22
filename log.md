@@ -293,3 +293,8 @@ Successfully communicate with server on signup component.
 Fixing select queries in sqlite3.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 49: October 21 2025
+
+Password decrypt compare to make successful logins from front end to sqlite database.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
