@@ -298,3 +298,8 @@ Fixing select queries in sqlite3.
 Password decrypt compare to make successful logins from front end to sqlite database.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 50: October 22 2025
+
+Component added to upload media files for active users.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
