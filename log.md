@@ -303,3 +303,8 @@ Password decrypt compare to make successful logins from front end to sqlite data
 Component added to upload media files for active users.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 51: October 23 2025
+
+Cloudinary support for storing images and video. Added uploader server endpoint.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
