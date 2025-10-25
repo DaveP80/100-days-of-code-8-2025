@@ -308,3 +308,8 @@ Component added to upload media files for active users.
 Cloudinary support for storing images and video. Added uploader server endpoint.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 52: October 24 2025
+
+working on debugging upload error with missing boundary
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
