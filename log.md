@@ -313,3 +313,8 @@ Cloudinary support for storing images and video. Added uploader server endpoint.
 working on debugging upload error with missing boundary
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 53: October 25 2025
+
+Refactoring cloudinary upload stream process.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
