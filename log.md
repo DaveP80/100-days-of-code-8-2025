@@ -318,3 +318,8 @@ working on debugging upload error with missing boundary
 Refactoring cloudinary upload stream process.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 54: October 26 2025
+
+Still trying to debug uploading an array of media to cloudinary.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
