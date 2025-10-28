@@ -323,3 +323,8 @@ Refactoring cloudinary upload stream process.
 Still trying to debug uploading an array of media to cloudinary.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 55: October 27 2025
+
+Working on making cloudinary handle multi file upload from user upload media page.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
