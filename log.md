@@ -328,3 +328,8 @@ Still trying to debug uploading an array of media to cloudinary.
 Working on making cloudinary handle multi file upload from user upload media page.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 56: October 28 2025
+
+Error handling with cloudinary uploader. Trying to find "files" in request object.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
