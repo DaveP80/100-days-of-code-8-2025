@@ -333,3 +333,8 @@ Working on making cloudinary handle multi file upload from user upload media pag
 Error handling with cloudinary uploader. Trying to find "files" in request object.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 57: October 29 2025
+
+React frontend now uploads single videos from file picker ui to the cloudinary storage.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
