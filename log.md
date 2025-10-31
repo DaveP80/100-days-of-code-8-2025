@@ -338,3 +338,8 @@ Error handling with cloudinary uploader. Trying to find "files" in request objec
 React frontend now uploads single videos from file picker ui to the cloudinary storage.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 58: October 30 2025
+
+Developing cloudinary functions to upload images and videos to cloud.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
