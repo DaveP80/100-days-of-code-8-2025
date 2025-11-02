@@ -343,3 +343,8 @@ React frontend now uploads single videos from file picker ui to the cloudinary s
 Developing cloudinary functions to upload images and videos to cloud.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 59: October 31 2025
+
+Creating media library component for users to view uploaded media on cloudinary.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
