@@ -348,3 +348,8 @@ Developing cloudinary functions to upload images and videos to cloud.
 Creating media library component for users to view uploaded media on cloudinary.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 60: Nov 1 2025
+
+More routing and database schema to support viewing media-libary uploads.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
