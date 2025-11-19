@@ -353,3 +353,8 @@ Creating media library component for users to view uploaded media on cloudinary.
 More routing and database schema to support viewing media-libary uploads.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 61: Nov 18 2025
+
+begin adding file upload metadata on the sqlite server.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
