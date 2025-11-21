@@ -358,3 +358,8 @@ More routing and database schema to support viewing media-libary uploads.
 begin adding file upload metadata on the sqlite server.
 
 ### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
+## Day 62: Nov 20 2025
+
+Node server saves user uploaded videos and react frontend replays video saved for each user.
+
+### Link to work: [react_native](https://github.com/DaveP80/react_native_01.git)
